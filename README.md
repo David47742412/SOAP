@@ -2,3 +2,4 @@
 Dependencias:
 * Spring web
 * Spring web services
+* Wsdl4j
